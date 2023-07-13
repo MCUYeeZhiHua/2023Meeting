@@ -1,9 +1,9 @@
 # 2023Meeting
 -cd desktop
 
--git clone https://github.com/MCUYeeZhiHua/Doll_Ru
+-git clone https://github.com/MCUYeeZhiHua/2023_Summer_Meeting
 
--cd Doll_Ru
+-cd 2023_Summer_Meeting
 
 -git status
 
